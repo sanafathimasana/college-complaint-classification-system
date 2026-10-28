@@ -1,4 +1,4 @@
-```python
+
 import streamlit as st
 import pandas as pd
 import joblib
@@ -244,4 +244,4 @@ elif page == "About Project":
     and falls back to the trained machine learning model when no
     configured keyword matches.
     """)
-```
+
